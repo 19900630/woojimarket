@@ -1,7 +1,7 @@
 # Site
-name: "woojimarket"
-title: "우지마켓"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "육아대디"
+title: "육아대디"
+description: "육아하는 대디 애런입니다.."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /woojimarket
@@ -13,12 +13,12 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  Dady Aron:
     name: Sal
     display_name: Sal
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: woojidream@gmail.com
-    web: https://www.wowthemes.net
+    web: https://19900630.github.io/woojimarket/
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
