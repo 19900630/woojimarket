@@ -6,8 +6,8 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /woojimarket
 google_analytics: 'UA-157553034-1'
-disqus: 'woojimarket website'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+disqus: 'woojimarket'  # 페북, 트위터 아이디?
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'  # 여기는 어떤 주소?
 include: ["_pages"]
 permalink: /:title/
 
