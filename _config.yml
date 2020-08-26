@@ -1,35 +1,36 @@
 # Site
-name: "육아대디"
-title: "육아대디"
-description: "육아대디의 일상탈출."
+name: "woojimarket"
+title: "woojimarket"
+description: "당신의 품격을 올려주는 '우지마켓'입니다."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /woojimarket
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+google_analytics: 'UA-157553034-1'
+disqus: 'woojimarket website'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  Woo:
+    name: Woo
+    display_name: Woo
+    avatar: 'assets/images/avatar.png'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: woojimarket@gmail.com
+    web: 
+    facebook: https://www.facebook.com/woojimarket
+    description: "Author of Woojimarket"
   john:
-    name: John
-    display_name: John    
+    name: Ji
+    display_name: Ji
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    email: woojidream@gmail.com
+    web: 
+    facebook: https://www.facebook.com/woojimarket
+    description: "Author of Woojimarket"
 
 # Plugins
 plugins:
