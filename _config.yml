@@ -1,9 +1,9 @@
 # Site
 name: "woojimarket"
 title: "woojimarket"
-description: "당신의 요리를 빛내주는 레시피"
+description: "우지마켓에서 당신의 삶을 빛나게 만드세요!"  ## 사이트 관련
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'   ## 이미지 수정
 baseurl: /woojimarket
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
