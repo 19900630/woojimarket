@@ -3,9 +3,9 @@ name: "woojimarket"
 title: "woojimarket"
 description: "우지마켓에서 당신의 삶을 빛나게 만드세요!"  ## 사이트 관련
 logo: 'assets/images/logo_02.jpg'
-favicon: 'assets/images/logo_02.jpg'   ## 이미지 수정
+favicon: 'assets/images/logo.png'   ## 이미지 수정
 baseurl: /woojimarket
-google_analytics: 'UA-46278016-1'
+google_analytics: 'UA-157553034-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
