@@ -2,8 +2,8 @@
 name: "woojimarket"
 title: "woojimarket"
 description: "우지마켓에서 당신의 삶을 빛나게 만드세요!"  ## 사이트 관련
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'   ## 이미지 수정
+logo: 'assets/images/logo_02.png'
+favicon: 'assets/images/favicon_01.png'   ## 이미지 수정
 baseurl: /woojimarket
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
