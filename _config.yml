@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "woojimarket"
+title: "woojimarket"
+description: "당신의 요리를 빛내주는 레시피"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /woojimarket
